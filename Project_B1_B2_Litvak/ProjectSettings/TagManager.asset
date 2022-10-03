@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PlayerProjectile
+  - EnemyProjectile
+  - PlayerTeleport
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Obstacle
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundLevel
+    uniqueID: 1910009101
+    locked: 0
+  - name: ForegroundLevel
+    uniqueID: 2559766861
+    locked: 0
+  - name: EntitiesLevel
+    uniqueID: 3922022889
+    locked: 0
+  - name: PlayerLevel
+    uniqueID: 4203979825
+    locked: 0
+  - name: Underground
+    uniqueID: 1435542621
+    locked: 0
+  - name: Ground
+    uniqueID: 901590093
+    locked: 0
+  - name: Walls
+    uniqueID: 812160549
+    locked: 0
+  - name: Objects
+    uniqueID: 695588783
+    locked: 0
+  - name: Player
+    uniqueID: 678653403
+    locked: 0
